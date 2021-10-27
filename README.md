@@ -34,4 +34,6 @@ After enabling the badge, if you happen to not be active, you will be removed fr
 
 Active includes creation of a new or a forked repo every month and atleast 10 contributions a month.
 
+---
+
 ### Thanks for joining!
